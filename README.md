@@ -30,6 +30,8 @@ https://ipython.org/notebook.html
 * lstm_many_colums_version_1 : LSTM with many columns version 1
   There isn't any prediction in this code.
 * lstm_many_colums_version_2 : LSTM with many columns version 2
+* deep_neural_learning_2 : Deep naural network
+  Deep learning with more data.
 
 ## Related repositories
 * https://github.com/sajnikanth/prediction
